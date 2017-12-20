@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Ginger Repository Item created with version: 2.6.0.0-->
+<GingerCore.BusinessFlow Active="False" Created="12/20/2017 8:41:13 AM" CreatedBy="MOHDKHAN" EnableActivitiesVariablesDependenciesControl="False" Guid="b32036fb-382a-4ac9-9f18-6a3b66b9b9bc" LastUpdate="12/20/2017 8:42:02 AM" LastUpdateBy="MOHDKHAN" Name="Business Flow 1" ParentGuid="00000000-0000-0000-0000-000000000000" Source="Ginger" Version="2">
+<Activities>
+<GingerCore.Activity ActionRunOption="StopActionsRunOnFailure" Active="True" ActivityName="Activity 1" AutomationStatus="Development" Created="12/20/2017 8:41:13 AM" CreatedBy="MOHDKHAN" EnableActionsVariablesDependenciesControl="False" Guid="18fc3266-50ee-4ab4-b56d-65e6a59e04a2" LastUpdate="1/1/0001 12:00:00 AM" Mandatory="False" ParentGuid="00000000-0000-0000-0000-000000000000" PercentAutomated="0%" TargetApplication="MyNewWebApp" Version="0">
+<Acts>
+</Acts>
+
+<Tags>
+</Tags>
+
+<Variables>
+</Variables>
+
+<VariablesDependencies>
+</VariablesDependencies>
+</GingerCore.Activity>
+</Activities>
+
+<ActivitiesGroups>
+</ActivitiesGroups>
+
+<Tags>
+</Tags>
+
+<TargetApplications>
+<GingerCore.Platforms.TargetApplication AppName="MyNewWebApp" Created="12/20/2017 8:41:13 AM" CreatedBy="MOHDKHAN" Guid="35bbc512-5a56-43be-bdc0-145cf5b2fa85" LastUpdate="1/1/0001 12:00:00 AM" ParentGuid="00000000-0000-0000-0000-000000000000" Version="0" />
+</TargetApplications>
+
+<Variables>
+</Variables>
+</GingerCore.BusinessFlow>
